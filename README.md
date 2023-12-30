@@ -53,5 +53,6 @@ Features that exist in this application:
 <img src="https://github.com/Rifai2a2/SubmissionAkhirBelajarMembuatAplikasiAndroiddenganJetpackCompose/assets/129079560/16f731ed-3084-484d-acbb-6f2ad513aadb" alt="Dicoding" width="250" height="550">
 
 ## Demo APP
-![JetpackCompose](https://github.com/Rifai2a2/SubmissionAkhirBelajarMembuatAplikasiAndroiddenganJetpackCompose/assets/129079560/07fa81e9-4b85-4130-be27-c481c51f303f)
+<img src="https://github.com/Rifai2a2/SubmissionAkhirBelajarMembuatAplikasiAndroiddenganJetpackCompose/assets/129079560/07fa81e9-4b85-4130-be27-c481c51f303f" alt="Dicoding" width="250" height="550">
+
 
